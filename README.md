@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm rose1996iv!
 
-<!--
-**rose1996iv/rose1996iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to the open-source community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full-stack developer with expertise in modern web technologies
+- 🌱 Continuously learning and exploring new technologies
+- 🤝 Open to collaboration and mentoring
+- 🎯 Focused on writing clean, maintainable code
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, Python, Java, C#
+
+**Frontend:** React, HTML, CSS, Vue.js
+
+**Backend:** Node.js, Django, .NET, Express
+
+**Databases:** MySQL, MongoDB, PostgreSQL
+
+**Tools:** Git, Docker, AWS, VS Code
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rose1996iv&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rose1996iv&layout=compact&theme=radical)
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🐦 [Twitter](https://twitter.com/your-handle)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+## 💡 Featured Projects
+
+Check out some of my recent work in my repositories!
+
+---
+
+*Last updated: February 20, 2026*
