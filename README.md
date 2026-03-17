@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
+- 📧 Email: robinsonjoseph.va@gmail.com
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ## 💡 Featured Projects
